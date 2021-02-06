@@ -2,6 +2,6 @@
 
 ## Sobre 📢
 
-Esse página é um projeto desenvolvido durante as aulas na DIO (Digital Innovation One).
+Essa página é um projeto desenvolvido durante as aulas na DIO (Digital Innovation One).
 
 
